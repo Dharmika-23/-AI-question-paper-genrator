@@ -1,2 +1,11 @@
-# -AI-question-paper-genrator
-An AI-based Automatic Question Paper Generator that generates customized question papers from a question bank based on subjects, topics, difficulty levels, and other selected criteria.
+# Question Paper Generator using AI
+
+This is a mini-project built with Python and Streamlit.
+
+## Features
+- Upload PDF/DOCX/TXT module files.
+- Enter a topic name.
+- Automatically generate topic-related questions using AI.
+
+## How to run
+streamlit run app.py

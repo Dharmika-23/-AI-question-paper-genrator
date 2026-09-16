@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+python-docx
+transformers
+sentence-transformers
+spacy
+torch
+sentencepiece
+nltk

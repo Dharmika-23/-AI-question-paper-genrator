@@ -1,0 +1,6 @@
+==CPU scheduling is a process that allows one process to use the CPU while another is waiting.
+It helps maximize CPU utilization and ensure fairness among processes.
+There are several CPU scheduling algorithms: First-Come First-Served (FCFS), Shortest Job First (SJF), Round Robin (RR), and Priority Scheduling.
+FCFS is simple but can cause convoy effect. SJF minimizes average waiting time but may cause starvation.
+Round Robin gives time slices to each process and is commonly used in time-sharing systems.
+Priority scheduling assigns priority; higher-priority jobs run first but low-priority jobs may starve.
